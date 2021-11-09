@@ -12,6 +12,7 @@
   },
   "private": true,
   "dependencies": {
+    "express": "^4.17.1",
     "@angular/animations": "~11.2.6",
     "@angular/cli": "~11.2.5",
     "@angular/common": "~11.2.6",
